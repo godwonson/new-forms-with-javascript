@@ -133,7 +133,7 @@ span {
 }
 
 .failure-icon, .error {
-  color: red;
+  color: rgb(247, 0, 0);
 }
 
 .success-icon {
